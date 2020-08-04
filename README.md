@@ -2,7 +2,7 @@ Passionate about technology and its unlimited possibilities.
 
 Coffee lover, code writer, Computer Science Bachelor student <a href='http://www.ufabc.edu.br'>@UFABC</a> and a 日本語学生.
 
-Currently living (almost) in São Paulo, Brazil. Working as a Fraud Prevention intern at <a href="https://github.com/Itau-Unibanco">Itaú</a>.
+Currently living (almost) in São Paulo, Brazil. Working as a Fraud Prevention intern at <a href="https://www.itau.com.br">Itaú</a>.
 
 
 <br></br>
