@@ -7,7 +7,7 @@ Coffee lover, code writer, high school student and a 日本語学生.
 * :round_pushpin: currently living (almost) in São Paulo, Brazil. 
 * :briefcase: working as a Fraud Prevention intern at <a href="https://www.itau.com.br">Itaú</a>.
 * :mortar_board: Computer Science Bachelor Student at <a href="http://www.ufabc.edu.br">UFABC</a> (Universidade Federal do ABC)
-* :books: python enthusiast, currently deepening into Selenium and learning some React.
+* :books: python enthusiast, currently deepening into Selenium and Web Development.
 </div>
 
 <br></br>
