@@ -7,7 +7,7 @@ Coffee lover, code writer, high school student and a 日本語学生. :jp:
 * :round_pushpin: São Caetano do Sul (SP), Brazil. 
 * :briefcase: Fraud Prevention intern at <a href="https://www.itau.com.br">Itaú</a>.
 * :mortar_board: Computer Science Bachelor Student at <a href="http://www.ufabc.edu.br">UFABC</a> (Universidade Federal do ABC)
-* :computer: python enthusiast, currently deepening into Selenium and <b>Full Stack Development</b> (React, React Native and Node.js).
+* :computer: Python enthusiast, currently deepening into Selenium and <b>Full Stack Development</b> (React, React Native and Node.js).
 </div>
 
 <br></br>
