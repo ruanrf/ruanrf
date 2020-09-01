@@ -1,13 +1,13 @@
 Passionate about technology and its unlimited possibilities.
 
-Coffee lover, code writer, high school student and a 日本語学生.
+Coffee lover, code writer, high school student and a 日本語学生. :jp:
 
 <div style="font-size: 9px">
   
-* :round_pushpin: currently living (almost) in São Paulo, Brazil. 
-* :briefcase: working as a Fraud Prevention intern at <a href="https://www.itau.com.br">Itaú</a>.
+* :round_pushpin: São Caetano do Sul (SP), Brazil. 
+* :briefcase: Fraud Prevention intern at <a href="https://www.itau.com.br">Itaú</a>.
 * :mortar_board: Computer Science Bachelor Student at <a href="http://www.ufabc.edu.br">UFABC</a> (Universidade Federal do ABC)
-* :books: python enthusiast, currently deepening into Selenium and Web Development.
+* :computer: python enthusiast, currently deepening into Selenium and <b>Full Stack Development</b> (React, React Native and Node.js).
 </div>
 
 <br></br>
