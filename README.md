@@ -1,14 +1,12 @@
-Passionate about technology and its unlimited possibilities.
+:mag: *in search for an entry-level web development opportunity.*
 
-Coffee lover, code writer, high school student and a 日本語学生. :jp:
-
-:mag_right: *in search for an entry-level developer opportunity.*
+coffee lover, code writer, high school student and 日本語学生.
 
 <div style="font-size: 9px">
   
 * :round_pushpin: São Caetano do Sul (SP), Brazil. 
-* :mortar_board: Computer Science Bachelor Student at <a href="http://www.ufabc.edu.br">UFABC</a> (Universidade Federal do ABC)
-* :computer: Python enthusiast, currently deepening into Selenium and <b>Full Stack Development</b> (React, React Native and Node.js).
+* :mortar_board: CS Bachelor Student @<a href="http://www.ufabc.edu.br">UFABC</a> (Universidade Federal do ABC)
+* :computer: currently deepening into <b>Full Stack Development</b> (React.js, React Native and Node.js), with Selenium and Django sometimes.
 </div>
 
 <br></br>
