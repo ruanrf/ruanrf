@@ -1,4 +1,4 @@
-:mag: *in search for an entry-level web development opportunity.*
+:mag: *searching for an entry-level web development opportunity.*
 
 
 
