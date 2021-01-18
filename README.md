@@ -1,13 +1,13 @@
 :mag: *in search for an entry-level web development opportunity.*
 
-coffee lover, code writer, high school student and 日本語学生.
 
-<div style="font-size: 9px">
+
+Coffee lover, code writer, university student and 日本語学生.
   
 * :round_pushpin: São Caetano do Sul (SP), Brazil. 
 * :mortar_board: CS Bachelor Student @<a href="http://www.ufabc.edu.br">UFABC</a> (Universidade Federal do ABC)
 * :computer: currently deepening into <b>Full Stack Development</b> (React.js, React Native and Node.js), with Selenium and Django sometimes.
-</div>
+
 
 <br></br>
 :email: You can reach me at:
