@@ -2,6 +2,8 @@ Passionate about technology and its unlimited possibilities.
 
 Coffee lover, code writer, high school student and a 日本語学生. :jp:
 
+:mag_right: *in search for an entry-level developer opportunity.*
+
 <div style="font-size: 9px">
   
 * :round_pushpin: São Caetano do Sul (SP), Brazil. 
@@ -14,5 +16,4 @@ Coffee lover, code writer, high school student and a 日本語学生. :jp:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/ruanrf)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/ruannn)
-
-> :mag_right: *in search for an entry-level developer opportunity.* <
+ 
