@@ -2,10 +2,10 @@
 
 
 
-Coffee lover, code writer, university student and 日本語学生.
+Coffee lover, CS student and 日本語学生.
   
 * :round_pushpin: São Caetano do Sul (SP), Brazil. 
-* :mortar_board: CS Bachelor Student @<a href="http://www.ufabc.edu.br">UFABC</a> (Universidade Federal do ABC)
+* :mortar_board: Computer Science Bachelor Student @<a href="http://www.ufabc.edu.br">UFABC</a> (Universidade Federal do ABC)
 * :computer: currently deepening into <b>Full Stack Development</b> (React.js, React Native and Node.js), with Selenium and Django sometimes.
 
 
