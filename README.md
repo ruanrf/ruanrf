@@ -1,8 +1,8 @@
 
-Coffee lover, CS student and 日本語学生.
+Coffee lover, Computer Science student and 日本語学生.
   
 * :round_pushpin: São Caetano do Sul (SP), Brazil. 
-* :mortar_board: Computer Science Bachelor Student @<a href="http://www.ufabc.edu.br">UFABC</a> (Universidade Federal do ABC)
+* :mortar_board: CS Bachelor Student @<a href="http://www.ufabc.edu.br">UFABC</a> (Universidade Federal do ABC)
 * :books: Always willing to learn something new, be it a new tool, tech or skill.
 
 
