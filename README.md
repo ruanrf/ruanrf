@@ -1,12 +1,9 @@
-:mag: *searching for an entry-level web development opportunity.*
-
-
 
 Coffee lover, CS student and 日本語学生.
   
 * :round_pushpin: São Caetano do Sul (SP), Brazil. 
 * :mortar_board: Computer Science Bachelor Student @<a href="http://www.ufabc.edu.br">UFABC</a> (Universidade Federal do ABC)
-* :books: currently deepening into Full Stack Development using React.js, React Native, Node.js, TypeScript and willing to dive into Django.
+* :books: Always willing to learn something new, be it a new tool, tech or skill.
 
 
 <br></br>
